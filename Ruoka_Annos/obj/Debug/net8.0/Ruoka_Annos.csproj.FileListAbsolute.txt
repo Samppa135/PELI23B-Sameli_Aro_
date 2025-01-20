@@ -1,0 +1,15 @@
+C:\Sameli_Git\PELI23B-Sameli_Aro\Ruoka_Annos\bin\Debug\net8.0\Ruoka_Annos.exe
+C:\Sameli_Git\PELI23B-Sameli_Aro\Ruoka_Annos\bin\Debug\net8.0\Ruoka_Annos.deps.json
+C:\Sameli_Git\PELI23B-Sameli_Aro\Ruoka_Annos\bin\Debug\net8.0\Ruoka_Annos.runtimeconfig.json
+C:\Sameli_Git\PELI23B-Sameli_Aro\Ruoka_Annos\bin\Debug\net8.0\Ruoka_Annos.dll
+C:\Sameli_Git\PELI23B-Sameli_Aro\Ruoka_Annos\bin\Debug\net8.0\Ruoka_Annos.pdb
+C:\Sameli_Git\PELI23B-Sameli_Aro\Ruoka_Annos\obj\Debug\net8.0\Ruoka_Annos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sameli_Git\PELI23B-Sameli_Aro\Ruoka_Annos\obj\Debug\net8.0\Ruoka_Annos.AssemblyInfoInputs.cache
+C:\Sameli_Git\PELI23B-Sameli_Aro\Ruoka_Annos\obj\Debug\net8.0\Ruoka_Annos.AssemblyInfo.cs
+C:\Sameli_Git\PELI23B-Sameli_Aro\Ruoka_Annos\obj\Debug\net8.0\Ruoka_Annos.csproj.CoreCompileInputs.cache
+C:\Sameli_Git\PELI23B-Sameli_Aro\Ruoka_Annos\obj\Debug\net8.0\Ruoka_Annos.sourcelink.json
+C:\Sameli_Git\PELI23B-Sameli_Aro\Ruoka_Annos\obj\Debug\net8.0\Ruoka_Annos.dll
+C:\Sameli_Git\PELI23B-Sameli_Aro\Ruoka_Annos\obj\Debug\net8.0\refint\Ruoka_Annos.dll
+C:\Sameli_Git\PELI23B-Sameli_Aro\Ruoka_Annos\obj\Debug\net8.0\Ruoka_Annos.pdb
+C:\Sameli_Git\PELI23B-Sameli_Aro\Ruoka_Annos\obj\Debug\net8.0\Ruoka_Annos.genruntimeconfig.cache
+C:\Sameli_Git\PELI23B-Sameli_Aro\Ruoka_Annos\obj\Debug\net8.0\ref\Ruoka_Annos.dll
